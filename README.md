@@ -3,6 +3,8 @@
 ### About me:
 Proactive and highly motivated Developer with an experience in the IT industry for 2.5+ years. Strong professional expertise in Backend development using Node.js, JavaScript, TypeScript. Practical experience in designing server architecture and developing server sides of site, testing and debugging. Fast learner, able to grasp any new skills or roles quickly, good at working within noted deadlines whilst maintaining accuracy and quality at all times.
 
+gelo200112@gmail.com
+
 ### Skllls:
 Programming Languages:
 - JavaScript, TypeScript
